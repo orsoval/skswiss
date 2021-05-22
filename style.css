@@ -1,0 +1,158 @@
+.promo_bar p {
+  text-align: center;
+}
+
+.top_bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+
+
+.social li a {
+  float: left;
+  color: #1b5484;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.account li a {
+  float: right;
+  color: #1b5484;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.main_menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1b5484;
+  }
+  
+  
+ 
+  .menu a {
+    float: right;
+    color:white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+
+  .logo {
+      position: absolute;
+      width: 150px;
+  }
+
+  .drapeau {
+    position:relative;
+    width: 30px;
+}
+
+.logo2 {
+  text-align: center;
+}
+
+.imgbg {
+  background-image:url("images/img3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 420px;
+  background-position: center center;
+}
+
+.donner_vie {
+  float: left;
+  display: block;
+  width: 20%;
+  text-align: left;
+  padding-left: 20%;
+}
+
+.text2 {
+  width: 58%;
+  padding-left: 20%;
+}
+
+.text3 {
+
+  width: 40%;
+  padding-left: 40%;
+ 
+}
+
+.video1 iframe {
+  position: absolute; 
+  top: 0;
+  bottom: 0;
+  width: 800px;
+  height: 500px;
+  border: 0;
+  padding-top: 20px;
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+.video1 {
+  position: relative;
+  padding-bottom: 45.25%;
+  height: 0;
+}
+
+.imgbg1 {
+  background-image:url("images/img2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 550px;
+  background-position: center center;
+  padding-bottom: 20%;
+}
+
+h2 {
+  font-family: interstate, arial;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: normal;
+  text-transform: uppercase;
+  line-height: 1.5;
+  color: #005587;
+  display: block;
+  letter-spacing: 2px;
+  text-rendering: optimizeLegibility;
+  margin-bottom: 0.75em;
+
+}
+
+.sgary-vee-unboxing-launch {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: inherit;
+  max-height: inherit;
+  justify-content: space-between;
+}
+
+.gary-vee .unboxing .launch {
+  position: relative;
+}
+
+.gary-vee {
+  position: relative;
+  padding-right: 10%;
+  
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "gestion-conges-rh",
+  "version": "1.0.0",
+  "description": "Application web de gestion des congés RH",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["rh", "conges", "gestion", "fullstack"],
+  "author": "Senior FullStack Engineer",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1"
+  }
+}
